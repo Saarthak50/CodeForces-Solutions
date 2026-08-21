@@ -28,7 +28,7 @@ public class AILoveUsername{
             arr[i] = sc.nextInt();
         }
         System.out.println(noOfAmazingPerformances(n, arr));
-        sc.close();
+       
 
        
     }
