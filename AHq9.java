@@ -4,7 +4,7 @@ public class AHq9{
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         for(char ch:s.toCharArray()){
-            if(ch == 'H' || ch == 'Q' || ch=='9' || ch =='+'){
+            if(ch == 'H' || ch == 'Q' || ch=='9'){
                 System.out.println("YES");
                 return;
             }
